@@ -10,7 +10,8 @@ Summary(pl):	Math::Financial - obliczenia zwi±zane z po¿yczkami i op³atami
 Name:		perl-Math-Financial
 Version:	0.76
 Release:	2
-License:	GPL/Artistic
+# same as perl
+License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	1f91a13c91c94f3d4ec5b759d3c6f79b
