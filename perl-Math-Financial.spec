@@ -5,7 +5,7 @@
 %include	/usr/lib/rpm/macros.perl
 %define		pdir	Math
 %define		pnam	Financial
-Summary:	Math::Financial - Calculates figures relating to loans and annuities
+Summary:	Math::Financial - calculates figures relating to loans and annuities
 Summary(pl):	Math::Financial - obliczenia zwi±zane z po¿yczkami i op³atami
 Name:		perl-Math-Financial
 Version:	0.76
