@@ -6,7 +6,7 @@
 %define		pdir	Math
 %define		pnam	Financial
 Summary:	Math::Financial - calculates figures relating to loans and annuities
-Summary(pl):	Math::Financial - obliczenia zwi±zane z poøyczkami i op≥atami
+Summary(pl.UTF-8):   Math::Financial - obliczenia zwiƒÖzane z po≈ºyczkami i op≈Çatami
 Name:		perl-Math-Financial
 Version:	0.76
 Release:	2
@@ -24,9 +24,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 This package solves mathematical problems relating to loans
 and annuities.
 
-%description -l pl
-Ten pakiet rozwi±zuje problemy matematyczne zwi±zane z poøyczkami i
-op≥atami.
+%description -l pl.UTF-8
+Ten pakiet rozwiƒÖzuje problemy matematyczne zwiƒÖzane z po≈ºyczkami i
+op≈Çatami.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
