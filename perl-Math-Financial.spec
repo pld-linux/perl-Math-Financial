@@ -6,7 +6,7 @@
 %define		pdir	Math
 %define		pnam	Financial
 Summary:	Math::Financial - calculates figures relating to loans and annuities
-Summary(pl.UTF-8):   Math::Financial - obliczenia związane z pożyczkami i opłatami
+Summary(pl.UTF-8):	Math::Financial - obliczenia związane z pożyczkami i opłatami
 Name:		perl-Math-Financial
 Version:	0.76
 Release:	2
