@@ -9,7 +9,7 @@ Summary:	Math::Financial - calculates figures relating to loans and annuities
 Summary(pl.UTF-8):	Math::Financial - obliczenia związane z pożyczkami i opłatami
 Name:		perl-Math-Financial
 Version:	0.76
-Release:	2
+Release:	3
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
